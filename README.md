@@ -14,7 +14,7 @@ Campus Connect is a platform designed to help students connect with each other, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/campus-connect.git
+    https://github.com/SahilKulkarni10/Campus-Connect.git
     cd campus-connect
     ```
 
