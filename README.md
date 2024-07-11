@@ -43,15 +43,6 @@ Campus Connect is a platform designed to help students connect with each other, 
 3. **Stay Updated**: Get notifications about the latest events and activities in your college.
 4. **Message Winners**: Send messages to hackathon winners to congratulate them or ask for advice.
 
-## Contributing
-
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
 
 ## License
 
