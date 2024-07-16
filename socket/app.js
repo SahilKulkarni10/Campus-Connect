@@ -46,7 +46,7 @@ import { Server } from "socket.io";
 
 const io = new Server({
   cors: {
-    origin: "https://campus-connect-client-nu.vercel.app",
+    origin: "https://campus-connect-api-ruddy.vercel.app/",
   },
 });
 
