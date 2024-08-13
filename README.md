@@ -46,7 +46,7 @@ Campus Connect is a platform designed to help students connect with each other, 
 
 ## License
 
-This project is licensed 
+This project is licensed under MIT license
 
 ## Contact
 
